@@ -1,4 +1,4 @@
-#T5-Small Model for Named Entity Recognition in Appraisal Instances
+ # T5-Small Model for Named Entity Recognition in Appraisal Instances
 
 This document provides an academic explanation of a Python code snippet that employs the T5-small model for named entity recognition (NER) in the context of appraisal instances. The T5 model, introduced by Raffel et al. (2019), is a transformer-based architecture designed for text-to-text tasks, making it adaptable to various natural language processing (NLP) applications. The T5-small variant, a lightweight version of the original model, is utilized here to identify entities related to appraisal theory—an analytical framework for evaluating subjective expressions in language. This explanation breaks down the code into its key components, offering detailed commentary on each section, addressing potential issues, and suggesting improvements for clarity and professionalism.
 
